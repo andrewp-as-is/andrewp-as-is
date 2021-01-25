@@ -8,7 +8,7 @@
 
 my site:
 +   <a href="https://python42.com" target="_blank">python42.com</a> - python packages catalog
-+   <a href="https://django42.com" target="_blank">django42.com</a> - django packages catalog |
++   <a href="https://django42.com" target="_blank">django42.com</a> - django packages catalog
 +   <a href="https://readme42.com" target="_blank">readme42.com</a> - README.md generator
 
 :bulb: :snake: interesting python repos:
