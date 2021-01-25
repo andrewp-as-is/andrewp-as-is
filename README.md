@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-+   :package: languages: Python/Django, SQL/PostgreSQL, bash, node, html/css/js
-+   :wrench: technologies:  AWS, Docker
++   :package: languages: **Python**/**Django**, **SQL**/**PostgreSQL**, **bash**, **node**, **HTML**/**CSS**/**JavaScript**
++   :wrench: technologies:  **AWS**, **Docker**
 +   location: :ru: Russia
 +   :telephone_receiver: chat: discord url
 
