@@ -1,4 +1,7 @@
-[python42.com](http://python42.com) - :snake: &nbsp; python packages
+|site|description|
+|-|-|
+| <a href="https://python42.com" target="_blank">python42.com</a> | Python packages catalog |
+| <a href="https://django42.com" target="_blank">django42.com</a> | Django packages catalog |
 
 [django42.com](http://django42.com) - :snake: &nbsp; django packages
 
