@@ -2,7 +2,7 @@
 
 +   :package: &nbsp; programming languages: **Python**/**Django**, **SQL**/**PostgreSQL**, **Bash**, **Node**, **HTML**/**CSS**/**JavaScript**
 +   :wrench:  &nbsp; technologies:  **AWS**, **Docker**, **CI**/**CD**, 
-+   :speech_balloon: &nbsp; languages: russian :ru:
++   :speech_balloon: &nbsp; native languages: russian :ru:
 +   :globe_with_meridians: &nbsp; location: Russia :ru:
 +   :telephone_receiver: &nbsp; contacts: todo
 
