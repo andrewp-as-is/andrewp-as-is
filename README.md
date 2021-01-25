@@ -1,5 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
++   :package: languages: Python/Django, SQL/PostgreSQL, bash, node, html/css/js
++   :wrench: technologies:  AWS, Docker
++   location: :ru: Russia
++   :telephone_receiver: chat: discord url
+
+
 |site|description|
 |-|-|
 | <a href="https://python42.com" target="_blank">python42.com</a> | Python packages catalog |
@@ -8,11 +14,16 @@
 
 [django42.com](http://django42.com) - :snake: &nbsp; django packages
 
+:bulb: :snake: interesting python repos:
+
 [andrewp-as-is/python-most-starred-packages](https://github.com/andrewp-as-is/python-most-starred-packages) - python most starred packages
 
 [andrewp-as-is/python-most-downloaded-packages](https://github.com/andrewp-as-is/python-most-downloaded-packages) - python most downloaded packages
 
 [andrewp-as-is/python-most-used-packages](https://github.com/andrewp-as-is/python-most-used-packages) - python most used packages
+
+
+:bulb: :snake: interesting django repos:
 
 [andrewp-as-is/django-most-starred-packages](https://github.com/andrewp-as-is/django-most-starred-packages) - django most starred packages
 
