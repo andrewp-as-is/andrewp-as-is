@@ -1,7 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-+   :package: &nbsp; languages: **Python**/**Django**, **SQL**/**PostgreSQL**, **bash**, **node**, **HTML**/**CSS**/**JavaScript**
++   :package: &nbsp; programming languages: **Python**/**Django**, **SQL**/**PostgreSQL**, **bash**, **node**, **HTML**/**CSS**/**JavaScript**
 +   :wrench:  &nbsp; technologies:  **AWS**, **Docker**
++   :speech_balloon: languages: russian :ru:
 +   :globe_with_meridians: &nbsp; location: Russia :ru:
 +   :telephone_receiver: &nbsp; contacts: todo
 
