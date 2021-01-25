@@ -2,7 +2,7 @@
 
 +   :package: &nbsp; languages: **Python**/**Django**, **SQL**/**PostgreSQL**, **bash**, **node**, **HTML**/**CSS**/**JavaScript**
 +   :wrench:  &nbsp; technologies:  **AWS**, **Docker**
-+   location: Russia :ru:
++   :globe_with_meridians: location: Russia :ru:
 +   :telephone_receiver: chat: discord url
 
 
