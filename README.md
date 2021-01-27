@@ -4,7 +4,7 @@
 +   :wrench:  &nbsp; technologies:  **AWS**, **Docker**, **CI**/**CD**
 +   :speech_balloon: &nbsp; native languages: russian :ru:
 +   :globe_with_meridians: &nbsp; location: Russia :ru:
-+   :telephone_receiver: &nbsp; contacts: todo
++   :telephone_receiver: &nbsp; contacts: <a href="https://discord.gg/EU392ZC" target="_blank">https://discord.gg/EU392ZC</a>
 
 
 :link: &nbsp; my sites:
